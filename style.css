@@ -5,5 +5,19 @@
 }
 
 .banner-align {
-  margin: 20px 0px;
+  margin: 10px 0px;
+}
+
+.card-text-hader {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card-body-text {
+  font-size: 10px;
+}
+.card-body-text i {
+  margin-right: 5px;
+  padding-top: 2px;
+  background-color: gray;
 }
