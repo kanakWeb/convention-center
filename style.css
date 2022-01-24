@@ -37,3 +37,9 @@
   font-family: "Poppins", sans-serif;
   margin-left: 28px;
 }
+.my-card {
+  position: absolute;
+  left: 40%;
+  top: -20px;
+  border-radius: 50%;
+}
