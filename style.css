@@ -43,3 +43,15 @@
   top: -20px;
   border-radius: 50%;
 }
+
+/* @media only screen and (min-width: 100px) and (max-width: 576) {
+  .h5-text {
+    font-size: 8px;
+  }
+  .p-text {
+    font-size: 5px;
+  }
+  .button-text {
+    font-size: 5px;
+  }
+} */
