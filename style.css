@@ -1,3 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap");
+
+/* font-family: 'Poppins', sans-serif;  500 size */
+/* font-family: 'Poppins', sans-serif;   300 size */
+
 * {
   margin: 0;
   padding: 0;
@@ -7,11 +12,13 @@
 .card-text-hader {
   font-size: 20px;
   font-weight: bold;
+  font-family: "Poppins", sans-serif;
 }
 
 .card-body-text {
   font-size: 9px;
   list-style: none;
+  font-family: "Poppins", sans-serif;
 }
 .card-body-text i {
   background-color: gray;
@@ -23,6 +30,10 @@
 }
 .card-buuton {
   font-size: 10px;
-  padding: 5px 2px;
+  width: 100px;
+  padding: 5px 3px;
+  border-radius: 20px;
   background: blanchedalmond;
+  font-family: "Poppins", sans-serif;
+  margin-left: 28px;
 }
